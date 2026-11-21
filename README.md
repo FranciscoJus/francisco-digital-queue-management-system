@@ -1,1 +1,1 @@
-# francisco-digital-queue-management-system
+Digital Queue Management System
